@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-09T18:49:58 IST" name="Default suite" finished-at="2023-01-09T18:51:02 IST" duration-ms="64390">
+    <groups>
+    </groups>
+    <test started-at="2023-01-09T18:49:58 IST" name="Default test" finished-at="2023-01-09T18:51:02 IST" duration-ms="64390">
+      <class name="com.app.test.AppTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.app.test.AppTest@7fee8714]" started-at="2023-01-09T18:49:58 IST" name="launchBrowser" finished-at="2023-01-09T18:50:04 IST" duration-ms="6345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifyBag()[pri:0, instance:com.app.test.AppTest@7fee8714]" started-at="2023-01-09T18:50:04 IST" name="verifyBag" finished-at="2023-01-09T18:50:22 IST" duration-ms="17349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBag -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.app.test.AppTest@7fee8714]" started-at="2023-01-09T18:50:22 IST" name="launchBrowser" finished-at="2023-01-09T18:50:26 IST" duration-ms="4403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="verifyLogin()[pri:0, instance:com.app.test.AppTest@7fee8714]" started-at="2023-01-09T18:50:26 IST" name="verifyLogin" finished-at="2023-01-09T18:51:02 IST" duration-ms="35997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.app.test.AppTest@7fee8714]" started-at="2023-01-09T18:51:02 IST" name="quit" finished-at="2023-01-09T18:51:02 IST" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.app.test.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
